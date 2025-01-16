@@ -3,6 +3,8 @@ terve = "Terve, " + nimi + "!"
 print(terve)
 print(f"moi {nimi}, mitä kuuluu")
 
+
+#pahoittelut käytin tehtävää muistiinpano/testinä vähän
 #input lukee kaikki syötteet
 
 lukuA_str = input("anna kokonaissluku:")

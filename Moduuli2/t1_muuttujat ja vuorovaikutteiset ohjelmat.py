@@ -2,14 +2,7 @@ nimi = input('Hei kuka olet: ')
 terve = "Terve, " + nimi + "!"
 print(terve)
 print(f"moi {nimi}, mitä kuuluu")
-
-
-#pahoittelut käytin tehtävää muistiinpano/testinä vähän
-#input lukee kaikki syötteet
-
-lukuA_str = input("anna kokonaissluku:")
-#merkkijono kokonaisluvuksi
-lukuA_str = int(lukuA_str)
-lukuB = int(input("anna toinen luku: "))
-summa = lukuA + lukuB
-print(f"lukujen summa = {summa}")
+#huom minulla ei ole aiempaa lukio tai it taustaa
+#olen lähtenyt ihan alusta alkaen mutta vapaalla opiskelee tehokkaasti.
+#sähkö automaatio ja laboratorio taustaa on ja työkokemusta kummastakin.
+#jos on vinkkejä lisä materiaaliin ihan alusta oppimiseen niin kerro ihmeessä olen kiinostunut.

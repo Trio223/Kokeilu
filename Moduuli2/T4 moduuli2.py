@@ -12,3 +12,5 @@ summa = (lukuA+lukuB+lukuC)
 keski = summa/3
 print(f"summa = {summa}")
 print(f"keskiarvo = {keski}")
+
+#float(input("syötä lukuA:")) olisi voinut käyttää

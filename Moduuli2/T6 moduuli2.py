@@ -11,3 +11,4 @@ print(random.randint(1, 6))
 print(random.randint(1, 6))
 print(random.randint(1, 6))
 print(random.randint(1, 6))
+#onkohan järkevämpää tapaa jättää tyhjiä rivejä?

@@ -20,6 +20,9 @@ print ("pinta ala on", pinta_ala)
 #.2f desimaalit 2 tarkkuudella mutta en tajua miten sen saisi tähän
 
 #yllä ihan ensimmäinen yritys koitetaas laadukkaammin
+
 säde2_str = float(input("Syötä ympyrän säde:"))
+
 pinta_ala2 = math.pi * säde2_str**2
+
 print(f"ympyrän pinta ala on: {pinta_ala2:.2f}")

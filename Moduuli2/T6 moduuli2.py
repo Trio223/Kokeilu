@@ -12,4 +12,5 @@ print(random.randint(1, 6))
 print(random.randint(1, 6))
 print(random.randint(1, 6))
 print(random.randint(1, 6))
+
 #en ole varma kuinka random koodeihin saisi \n muodon

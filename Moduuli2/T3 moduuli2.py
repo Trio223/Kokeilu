@@ -1,7 +1,7 @@
 import math
 
 
-#str eli voidaan syöttää tekstiä
+#str eli voidaan syöttää tekstiä ohjelman aikana eli luvut
 kanta_str = input("anna kanta:")
 korkeus_str = input("anna korkeus:")
 

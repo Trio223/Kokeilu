@@ -11,9 +11,8 @@ kanta = float(kanta_str)
 
 pinta_ala = korkeus*kanta
 
-#f tarkoittaa formatoitua merkkijonoa
-#liittää muuttujien arvot suoraan merkkijonoon
-
-# mahdollistaa arvon muotoilun
+#f tarkoittaa formatoitua merkkijonoa mahdollistaa komennot tekstissä
+#esim {} eivät toimisi ilman merkkiä f edessä
 print(f"pinta ala on {pinta_ala:.2f}")
 print(f"Piiri on {kanta*2+korkeus*2}")
+#:.2f = 2 desimaalin tarkkuudella

@@ -1,14 +1,15 @@
 import random
-print("3 numeroinen")
-print(" ")
+
+#random komennoissa aina import random
+
+print("3 numeroinen\n")
 print(random.randint(0, 9))
 print(random.randint(0, 9))
 print(random.randint(0, 9))
 print(" ")
-print("4 numeroinen")
-print(" ")
+print("4 numeroinen\n")
 print(random.randint(1, 6))
 print(random.randint(1, 6))
 print(random.randint(1, 6))
 print(random.randint(1, 6))
-#onkohan järkevämpää tapaa jättää tyhjiä rivejä?
+#en ole varma kuinka random koodeihin saisi \n muodon

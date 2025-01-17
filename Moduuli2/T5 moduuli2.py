@@ -20,7 +20,8 @@ kg = int(gr / 1000)
 gramma = int(gr % 1000)
 
 #int = kokonaisluvut ilman desimaalia
-# %  rooli jäi hieman epäselväksi jokin jäännösjako on nimeltään
+# %  modulo eli tässä tilanteessa kilojen ylijäämä esim kg ei ilmoita grammoja
+#niin monta kertaa 1000 menee vaikka 1200 joten 1kg ja 200 gramma
 
 
 print(f"Kiloa: {kg}")

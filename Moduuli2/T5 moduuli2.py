@@ -22,6 +22,7 @@ gramma = int(gr % 1000)
 #int = kokonaisluvut ilman desimaalia
 # %  modulo eli tässä tilanteessa kilojen ylijäämä esim kg ei ilmoita grammoja
 #niin monta kertaa 1000 menee vaikka 1200 joten 1kg ja 200 gramma
+#kuulemma yleinen kello tehtävissä
 
 
 print(f"Kiloa: {kg}")

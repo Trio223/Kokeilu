@@ -3,8 +3,8 @@ import math
 #import math aina matikka hommiin
 
 #str = string eli merkkijono
-#merkkijonot voivat olla joko vakioita (kiinteitä tekstejä) tai
-#muuttujia, joihin voi tallentaa tekstiä ohjelman aikana
+#merkkijonot voivat olla joko vakioita (kiinteitä tekstejä)
+#joihin voi kirjoittaa tekstiä ohjelman aikana
 
 #input = ohjelma esim kysyy ohjelman aikana jotakin esim syötä nro
 säde_str = input("syötä ympyrän säde")

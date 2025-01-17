@@ -18,7 +18,7 @@ print(f"keskiarvo = {keski}")
 #ylemmän tekstin
 
 #onko tässä tarvetta merkata muodolla _str?
-#se taitaa olla hahmotus sääntö koodin lukemiseen vai?
+#se taitaa olla hahmotus sääntö koodin lukemiseen vai? tai ehkä ei vierustoverilla oli tälläinen käytäntö
 
 luku1 = float(input("syötä luku a:"))
 luku2 = float(input("syötä luku b:"))

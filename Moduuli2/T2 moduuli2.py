@@ -2,7 +2,7 @@ import math
 
 #import math aina matikka hommiin
 
-#str = string eli merkkijono
+#str = string eli merkkijono eli vihreä teksti sulkujen sisällä
 #merkkijonot voivat olla joko vakioita (kiinteitä tekstejä)
 #joihin voi kirjoittaa tekstiä ohjelman aikana
 

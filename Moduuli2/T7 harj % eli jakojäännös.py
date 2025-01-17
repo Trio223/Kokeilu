@@ -24,3 +24,6 @@ print(x % 2)
 
 #vaihtelet vaan X, nii toi kertoo aina sit onko X parillinen tai pariton
 #jos se printtaa ulos 1, nii pariton, jos 0 nii parillinen
+
+sekuntti = 360
+int(sekuntti % 60)
